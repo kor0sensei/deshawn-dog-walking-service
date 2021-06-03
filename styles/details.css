@@ -1,6 +1,10 @@
-.detail {
+.details {
     display: flex;
     justify-content: space-evenly;
+}
+
+.details h2 {
+    padding: 1rem;
 }
 
 .detail--column {
